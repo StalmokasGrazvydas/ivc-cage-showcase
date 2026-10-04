@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.pt
+*.onnx
+*.pkl
+.env
